@@ -7,7 +7,7 @@
   "unsplashClientId": "",
   "redis": {
     "keyPrefix": "[Easy Mock]",
-    "port": 6379,
+    "port": 32768,
     "host": "localhost",
     "password": "",
     "db": 0
